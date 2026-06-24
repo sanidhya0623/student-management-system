@@ -1,0 +1,21 @@
+{
+  "name": "studentmanagement",
+  "version": "1.0.0",
+  "description": "The Student Management System is a full-stack web application developed using HTML, CSS, JavaScript, Node.js, Express.js, and MySQL. The application allows users to add student details and view all stored student records through a simple and interactive user interface.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanidhya0623/student-management-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanidhya0623/student-management-system/issues"
+  },
+  "homepage": "https://github.com/sanidhya0623/student-management-system#readme"
+}
